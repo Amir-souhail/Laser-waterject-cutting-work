@@ -20,7 +20,6 @@ This repository contains the design and specifications for a switch box. The swi
 - 📄 **`Switch_Box_Drawing.PDF`:** A detailed 2D drawing with dimensions and annotations for manufacturing.
 - 🖼️ **`Switch_Box.JPG`:** A high-resolution image showing the switch box design and structure.
 - 📐 **`Switch_Box.DXF`:** A DXF file for CNC machining or laser cutting.
-- 📜 **`LICENSE`:** The license file specifying the terms for usage, modification, and distribution.
 - 📘 **`README.md`:** This file, providing an overview and guidance for using the switch box files.
 
 ## How to Use
