@@ -45,9 +45,7 @@ This repository contains the design and specifications for a switch box. The swi
 - ⚡ Power distribution units
 - 🌐 Outdoor or hazardous environment installations (with additional protective features as needed)
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contributing
 
