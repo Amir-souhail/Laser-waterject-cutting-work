@@ -50,4 +50,4 @@ Contributions are welcome! If you'd like to suggest improvements or add features
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, please contact [your-email@example.com](mailto:amir.souhail@gmail.com).
